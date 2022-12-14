@@ -1,3 +1,40 @@
-body {
-
+body{
+  background-color:#C8D5B9;
+}
+h2{
+  color:#357266;
+  font-size:400%;
+  letter-spacing:1px;
+  font-family:"Lucida Console", "Courier New";
+}
+p{
+  color:#357266;
+  font-size:200%;
+  letter-spacing:6px;
+  font-family:"Lucida Console","Courier New";
+}
+img{
+  border: solid 3px #357266;
+  height:60%;
+  width: 50%;
+}
+ul{
+  list-style-type:none;
+    test-align:center;
+    position: fixed;
+    width: 100%;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 15px;
+  font-family: "Lucida Console","Courier New";
+    border-style: solid;
+  color:#357266;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color: #515B3A;
+  color: #E6EBE0;
 }
